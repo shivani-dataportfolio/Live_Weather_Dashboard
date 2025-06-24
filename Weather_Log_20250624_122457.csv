@@ -1,0 +1,7 @@
+City,Temperature (°C),Feels Like (°C),Humidity (%),Wind Speed (kmph),Condition,Time,Status
+Hyderabad,24,26,83,33,Haze,2025-06-24 12:24:47,☁️ Mild
+Darjeeling,33,39,55,12,Patchy rain nearby,2025-06-24 12:24:49,🌤️ Warm
+Delhi,35,40,47,9,Thundery outbreaks in nearby,2025-06-24 12:24:50,🔥 Hot
+Mumbai,28,34,74,29,Mist,2025-06-24 12:24:51,🌤️ Warm
+Chennai,34,36,56,32,Partly cloudy,2025-06-24 12:24:53,🌤️ Warm
+Bangalore,23,25,83,31,Partly cloudy,2025-06-24 12:24:54,☁️ Mild
